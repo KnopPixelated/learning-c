@@ -2,4 +2,4 @@
 Learning C Programming language
 
 ## TODO List
-* Vetore
+* Vector
