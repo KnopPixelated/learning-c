@@ -1,5 +1,6 @@
 # learning-c
-Learning C Programming language
+Learning C Programming Language
 
 ## TODO List
 * Vector
+* Arrays
