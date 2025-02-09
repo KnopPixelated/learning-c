@@ -4,3 +4,4 @@ Learning C Programming Language
 ## TODO List
 * Vector
 * Arrays
+* Pointers
